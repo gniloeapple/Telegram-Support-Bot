@@ -17,7 +17,7 @@
 ### 🚀 Установка и запуск
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/gniloeapple/telegram-Support-Bot.git
+git clone https://github.com/gniloeapple/Telegram-Support-Bot.git
 cd telegram-support-bot
 ```
 ### 2. Создание виртуального окружения (рекомендуется)
